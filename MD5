@@ -1,0 +1,17 @@
+eae483cd847196c1ba5216a716b72992 *DESCRIPTION
+e135ef9ca4cc44db7810ea60780b3672 *LICENSE
+14b4c5a6485631d902c00d29913f3c2b *NAMESPACE
+8878d53995c4685de00d60770353fe1e *R/flashCard.R
+dcb6384d95e69e320e0b71046ede6962 *README.md
+672beaca74a124d09aa6c2b0bc4cfb4c *build/vignette.rds
+d6066762ea11014ae681cda22f3e2715 *inst/doc/Intro-flashCard.R
+efbf01d4c306078d8fe4c69dc9e63a83 *inst/doc/Intro-flashCard.Rmd
+eedf84cd817615be7e32886c5b7d90b7 *inst/doc/Intro-flashCard.html
+9a8c5528355f6536321cfedf2a61820c *inst/htmlwidgets/flashCard.js
+0e8f77ecf6efba03ecdaf8d05cf095b9 *inst/htmlwidgets/flashCard.yaml
+4810870419888cdbe0a04a02139197a3 *inst/htmlwidgets/lib/style.css
+fd3987ee17dfeb5743c6aff5fa499d87 *man/figures/README-ex1-1.png
+68b0a9d2c0599cdef1a1b9dd8caafe15 *man/flashCard-shiny.Rd
+4a33c3cfd60a731f2b9ec93d5145786c *man/flashCard.Rd
+619bcaafe55ccf88f52c4ad297518253 *tests/testthat/test-flashCard.R
+efbf01d4c306078d8fe4c69dc9e63a83 *vignettes/Intro-flashCard.Rmd
